@@ -10,4 +10,5 @@ Or, on terminal:\
 `git clone https://github.com/psygreg/3200g-linux-patcher.git`\
 `cd 3200g-linux-patcher`\
 `chmod +x 3200g-linux-patcher.sh`\
-`./3200g-linux-patcher.sh`
+`./3200g-linux-patcher.sh`\
+Reboot to appply.
