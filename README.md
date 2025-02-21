@@ -4,7 +4,7 @@ A patcher for a widespread Ryzen 3 3200G AMDGPU crashing issue.
 ## Requirements
 Currently only supports systems using GRUB and rEFInd as bootloaders.
 
-###Why not systemd-boot?
+### Why not systemd-boot?
 The name of systemd-boot's configuration file changes depending on your distro. It's not feasible to automate the patch for it.
 
 ## Usage
