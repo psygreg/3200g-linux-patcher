@@ -26,7 +26,7 @@ if [ -f /etc/default/grub ]; then
     else
         N=$(grep -n 'GRUB_CMDLINE_LINUX_DEFAULT' "$FILE" | cut -d: -f1)
         patch
-        grub-mkconfig -o /boot/grub/grub.cfg
+        sudo grub-mkconfig -o /boot/grub/grub.cfg
         finished
     fi
 elif [ -f /boot/refind_linux.conf ]; then
