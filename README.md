@@ -11,4 +11,4 @@ Or, on terminal:\
 `cd 3200g-linux-patcher`\
 `chmod +x 3200g-linux-patcher.sh`\
 `./3200g-linux-patcher.sh`\
-Reboot to appply.
+Reboot to apply.
