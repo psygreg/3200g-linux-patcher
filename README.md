@@ -1,5 +1,5 @@
 # 3200g-linux-patcher
-A patcher for a Ryzen 3 3200G AMDGPU crashing issue.
+A patcher for a widespread Ryzen 3 3200G AMDGPU crashing issue.
 
 ## Requirements
 Currently only supports systems using GRUB and rEFInd as bootloaders.
